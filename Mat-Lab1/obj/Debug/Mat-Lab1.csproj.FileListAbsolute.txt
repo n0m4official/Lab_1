@@ -1,0 +1,7 @@
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Mat-Lab1\bin\Debug\Mat-Lab1.exe.config
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Mat-Lab1\bin\Debug\Mat-Lab1.exe
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Mat-Lab1\bin\Debug\Mat-Lab1.pdb
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Mat-Lab1\obj\Debug\Mat-Lab1.csproj.AssemblyReference.cache
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Mat-Lab1\obj\Debug\Mat-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Mat-Lab1\obj\Debug\Mat-Lab1.exe
+C:\Users\ba55d\OneDrive\Desktop\Class Materials\CPRG 211-B\Mat-Lab1\obj\Debug\Mat-Lab1.pdb
